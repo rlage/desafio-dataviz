@@ -14,16 +14,16 @@
 - Utilizar preprocessadores de HTML, CSS e JS (Webpack ou Gulp preferencialmente)
 - JS de controle da animação deve ser em ES6
 
----
-
-## Animação
-
-Como referência utilize o vídeo encontrado na pasta `animation`. Você pode estilizar seu vídeo como desejar:
-
-![animation](./animation/animation.mp4)
+Essas são as regras, fora isso tudo é válido. Utilize as bibliotecas que quiser, as técnicas que achar mais interessante. Se quiser incrementar a proposta, ótimo.
 
 ---
 
-## Dados
+## Recursos
+
+### Animação
+
+Como referência utilize o [vídeo](./animation/animation.mp4) encontrado na pasta `animation`. Você pode estilizar seu vídeo como desejar.
+
+### Dados
 
 Na pasta `data/data.tsv` existe uma planilha separada por tabs. Utilize os valores nela contida para gerar a animação
