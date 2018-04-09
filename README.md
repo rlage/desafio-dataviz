@@ -24,6 +24,8 @@ Essas são as regras, fora isso tudo é válido. Utilize as bibliotecas que quis
 
 Como referência utilize o [vídeo](./animation/animation.mp4) encontrado na pasta `animation`. Você pode estilizar seu vídeo como desejar.
 
+![animation](./animation/animation.png)
+
 ### Dados
 
 Na pasta `data/data.tsv` existe uma planilha separada por tabs. Utilize os valores nela contida para gerar a animação
