@@ -2,7 +2,7 @@
 
  Desenvolva uma animação para web a partir de uma planilha de dados.
 
- Crie um fork desse projeto, e quando concluído crie um pull request do seu fork para esse repositório.
+ Crie um fork desse projeto e, quando concluído, faça um pull request dele para esse repositório.
 
  ---
 
